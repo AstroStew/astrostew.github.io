@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Jr. Scientist and Python Software Dev
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently Living in Ottawa Ontario and Studying Space Engineering
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mstewart@my.yorku.ca](mailto:mstewart@my.yorku.ca)
