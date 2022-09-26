@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /https://github.com/AstroStew/
 ---
 
 Jr. Scientist and Python Software Dev
 
 ### More Information
 
-Currently Living in Ottawa Ontario and Studying Space Engineering
+Living in Ottawa, Ontario
 
 ### Contact me
 
