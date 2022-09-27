@@ -3,11 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-Jr. Scientist and Python Software Dev
 
-### More Information
-
-Living in Ottawa, Ontario
+Grad. Student | Jr. Scientist | Amateur Astronomer
 
 ### Contact me
 
