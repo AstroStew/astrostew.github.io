@@ -1,9 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /https://github.com/AstroStew/
+permalink: //
 ---
-
 Jr. Scientist and Python Software Dev
 
 ### More Information
