@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Grad. Student | Jr. Scientist | Amateur Astronomer
+Grad. Student @ YorkU | Jr. Scientist 
 
 ### Contact me
 
