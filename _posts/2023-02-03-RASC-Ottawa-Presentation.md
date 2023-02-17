@@ -5,7 +5,8 @@ To kick off joining, I decided to present my work on Photometric Transformations
 
 The full transcript of the RASC Meeting can be found by clicking the Youtube icon:
 
-[[!YouTube](https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg)](https://www.youtube.com/live/ciWoLGR8czU?feature=share)
+https://www.youtube.com/live/ciWoLGR8czU?feature=share
+
 
 It is in my hopes that I will continue to work with the RASC Ottawa team to promote open-source collaboration and to educate younger generations on astronomy.
 
