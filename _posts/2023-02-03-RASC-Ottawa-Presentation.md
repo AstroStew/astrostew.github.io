@@ -10,7 +10,7 @@ https://www.youtube.com/live/ciWoLGR8czU?feature=share
 
 It is in my hopes that I will continue to work with the RASC Ottawa team to promote open-source collaboration and to educate younger generations on astronomy.
 
-![StarParty_Image](/images/DSC_0675.jpg)
+![StarParty_Image](/images/DSC_0675.JPG)
 
 
 Clear Skies,
